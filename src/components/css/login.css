@@ -1,0 +1,9 @@
+.loginContainer {
+  background-color: rgb(218, 246, 246);
+  box-sizing: border-box;
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  margin-top: 5%;
+  margin-left: 35%;
+}
